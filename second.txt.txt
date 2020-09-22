@@ -1,1 +1,3 @@
 added second.txt
+
+new line
